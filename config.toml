@@ -20,7 +20,7 @@ theme = "ananke"
     name = "Podcasts"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/categories/homecloud/"
+    url = "/categories/podcasts/"
     weight = -10
 
   [[menu.main]]
