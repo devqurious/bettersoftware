@@ -24,7 +24,7 @@ theme = "ananke"
     weight = -10
 
   [[menu.main]]
-    name = "Podcasts"
+    name = "Podcast"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/categories/podcasts/"
