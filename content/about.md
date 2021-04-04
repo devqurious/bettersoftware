@@ -1,10 +1,9 @@
 ---
 title: About
-description: A place for creativity
+description: Building software, the right way
 type: page
 ---
 
-![](/images/techqurious.png)
+![](/images/about.png)
 
-
-Hello, I'm dev. This is my blog to tinker with tech to be able to understand it better. Right now, all the tinkering is being done by [creating a homelab](/categories/homecloud/).
+This is a blog on building software the right way. It consolidates the experiences of industry professionals who have learnt, over time, the pitfalls and the magic potion needed to build software that has value to customers. 

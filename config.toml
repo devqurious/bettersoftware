@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://bettersoftware.in/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Better Software"
 theme = "ananke"
 
 [taxonomies]
@@ -15,6 +15,13 @@ theme = "ananke"
     pre = "<i class='fa fa-heart'></i>"
     url = "/"
     weight = -30
+
+  [[menu.main]]
+    name = "Blog"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/categories/blogs/"
+    weight = -10
 
   [[menu.main]]
     name = "Podcasts"
