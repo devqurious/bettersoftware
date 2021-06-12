@@ -1,6 +1,4 @@
 ---
-title: "Home"
-description: "Better Software"
-menu: main
+title: "Better Software"
+description: "A playbook approach"
 ---
-A playbook approach

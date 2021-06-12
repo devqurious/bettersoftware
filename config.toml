@@ -10,29 +10,30 @@ theme = "ananke"
 [menu]
 
   [[menu.main]]
-    identifier = "Home"
-    name = "Home"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/"
+    name = "Podcasts"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/categories/podcasts/"
     weight = -30
 
   [[menu.main]]
+    identifier = "Blog"
     name = "Blog"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
+    pre = "<i class='fa fa-heart'></i>"
     url = "/categories/blogs/"
     weight = -10
 
   [[menu.main]]
-    name = "Podcast"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/categories/podcasts/"
-    weight = -10
-
-  [[menu.main]]
-    identifier = "about"
+    identifier = "About"
     name = "About"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about/"
     weight = -1
+
+[params]
+  custom_css = ["css/custom.css"]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  linkedin = "www.linkedin.com"
+  twitter = "https://twitter.com/GoHugoIO"
