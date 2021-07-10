@@ -12,7 +12,7 @@ categories:
   - Blogs
 ---
 
-![[input_validation.jpg]]
+![](/images/input_validation.jpg)
 
 "*Error. That password is already used by StarBoy98.*"
 
