@@ -1,7 +1,6 @@
-      
 ---
 title: Validate your inputs
-date: 2021-06-10T19:37:38.262Z
+date: 2021-06-09T19:37:38.262Z
 thumb_image: /images/input_validation.jpg
 omit_header_text: "true"
 draft: "false"
@@ -43,7 +42,7 @@ Well, as soon as the browser downloads the JavaScript code, the next thing it do
 ### Validation checklist
  Often times, input validation is the bulk of the code. If you don’t plan for it initially, then it may result in a number of bugs being found later on which could throw your schedule out of whack.
  
- Remember:
+ Playbook:
  
  - [ ] Strict validation is your best defense against bad actors.
  - [ ] Perform validation in the frontend (UI) _and_ in the backend. 
