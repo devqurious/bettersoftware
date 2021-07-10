@@ -1,4 +1,7 @@
 ---
 title: "Better Software"
-description: "A playbook approach"
+description: ""
+omit_header_text: true
+featured_image: "/images/bs-header.jpg"
+type: page
 ---

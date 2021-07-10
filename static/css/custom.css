@@ -50,3 +50,24 @@
 .list-with-title .listing .listing-post a:hover {
     color: #2660ab;
 }
+
+/* hack to fix the omit_header: true not working in front matter */
+.f-subheadline-l {
+    display: none
+}
+
+/* hack to fix the header image dull black background */
+
+.bg-black-60 {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+/* set the font close to obsidian font */
+.inter {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* keep text-content as black */
+.mid-gray {
+    color:  black;
+}

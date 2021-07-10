@@ -1,7 +1,9 @@
 ---
-title: About
-description: Building software, the right way
+title: "About"
+description: "About Better Software"
 type: page
+menu: "main"
+weight: -1
 ---
 
 ![](/images/about.png)
