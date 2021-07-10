@@ -42,10 +42,10 @@ Well, as soon as the browser downloads the JavaScript code, the next thing it do
 ### Validation checklist
  Often times, input validation is the bulk of the code. If you don’t plan for it initially, then it may result in a number of bugs being found later on which could throw your schedule out of whack.
  
- Playbook:
+### Playbook:
  
- - [ ] Strict validation is your best defense against bad actors.
- - [ ] Perform validation in the frontend (UI) _and_ in the backend. 
- - [ ] Run tools like SonarQube that will alert you when un-validated code is found. 
- - [ ] A pull request (PR) checklist should include validation as one of it's items.
- - [ ] Story estimates should include "un-happy" path validaton.
+ - Strict validation is your best defense against bad actors.
+ - Perform validation in the frontend (UI) _and_ in the backend. 
+ - Run tools like SonarQube that will alert you when un-validated code is found. 
+ - A pull request (PR) checklist should include validation as one of it's items.
+ - Story estimates should include "un-happy" path validaton.
